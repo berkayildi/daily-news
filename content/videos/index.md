@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-03-21 | Super Micro Co-Founder Charged With Smuggling Nvidia Chips to China \| Bloomberg Tech 3/20/2026 | [2026-03-21-super-micro-co-founder-charged-with-smuggling-nvidia-chips-to-china-bloomberg-te.md](./2026-03-21-super-micro-co-founder-charged-with-smuggling-nvidia-chips-to-china-bloomberg-te.md) |
 | 2026-03-20 | Micron Warns of Heavy Spending Amid Memory Crunch \| Bloomberg Tech 3/19/2026 | [2026-03-20-micron-warns-of-heavy-spending-amid-memory-crunch-bloomberg-tech-3-19-2026.md](./2026-03-20-micron-warns-of-heavy-spending-amid-memory-crunch-bloomberg-tech-3-19-2026.md) |
 | 2026-03-19 | Nvidia Says It's Getting Orders From China \| Bloomberg Tech 3/18/2026 | [2026-03-19-nvidia-says-it-s-getting-orders-from-china-bloomberg-tech-3-18-2026.md](./2026-03-19-nvidia-says-it-s-getting-orders-from-china-bloomberg-tech-3-18-2026.md) |
 | 2026-03-18 | Nvidia Forecasts $1 Trillion in Revenue Through 2027 \| Bloomberg Tech 3/17/2026 | [2026-03-18-nvidia-forecasts-1-trillion-in-revenue-through-2027-bloomberg-tech-3-17-2026.md](./2026-03-18-nvidia-forecasts-1-trillion-in-revenue-through-2027-bloomberg-tech-3-17-2026.md) |
