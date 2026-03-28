@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-03-28 | Jury Finds Meta, Google Liable for Addiction \| Bloomberg Tech 3/26/2026 | [2026-03-28-jury-finds-meta-google-liable-for-addiction-bloomberg-tech-3-26-2026.md](./2026-03-28-jury-finds-meta-google-liable-for-addiction-bloomberg-tech-3-26-2026.md) |
 | 2026-03-25 | Bloomberg Tech Live From the Hill and Valley Forum \| Bloomberg Tech 3/24/2026 | [2026-03-25-bloomberg-tech-live-from-the-hill-and-valley-forum-bloomberg-tech-3-24-2026.md](./2026-03-25-bloomberg-tech-live-from-the-hill-and-valley-forum-bloomberg-tech-3-24-2026.md) |
 | 2026-03-25 | SpaceX Could File an IPO By End of the Week \| Bloomberg Tech 3/25/2026 | [2026-03-25-spacex-could-file-an-ipo-by-end-of-the-week-bloomberg-tech-3-25-2026.md](./2026-03-25-spacex-could-file-an-ipo-by-end-of-the-week-bloomberg-tech-3-25-2026.md) |
 | 2026-03-24 | Musk's Mega Plan for Chip Manufacturing \| Bloomberg Tech 3/23/2026 | [2026-03-24-musk-s-mega-plan-for-chip-manufacturing-bloomberg-tech-3-23-2026.md](./2026-03-24-musk-s-mega-plan-for-chip-manufacturing-bloomberg-tech-3-23-2026.md) |
