@@ -1,4 +1,4 @@
-# Video Analyses Index
+# YouTube Analyses
 
 | Date | Title | File |
 |------|-------|------|
