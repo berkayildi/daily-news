@@ -2,6 +2,8 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-04-12 | Wall Street CEOs Summoned to Discuss Anthropic AI Risks \| Bloomberg Tech 4/10/2026 | [2026-04-12-wall-street-ceos-summoned-to-discuss-anthropic-ai-risks-bloomberg-tech-4-10-2026.md](./2026-04-12-wall-street-ceos-summoned-to-discuss-anthropic-ai-risks-bloomberg-tech-4-10-2026.md) |
+| 2026-04-12 | Market Analysis and Economic Update - Gold, Inflation, and Global Tensions | [2026-04-12-market-analysis-and-economic-update-gold-inflation-and-global-tensions.md](./2026-04-12-market-analysis-and-economic-update-gold-inflation-and-global-tensions.md) |
 | 2026-04-01 | Nvidia Invests $2B in Marvell, Deepens Partnership \| Bloomberg Tech 3/31/2026 | [2026-04-01-nvidia-invests-2b-in-marvell-deepens-partnership-bloomberg-tech-3-31-2026.md](./2026-04-01-nvidia-invests-2b-in-marvell-deepens-partnership-bloomberg-tech-3-31-2026.md) |
 | 2026-03-31 | Big Tech Selloff May Signal Turning Point \| Bloomberg Tech 3/30/2026 | [2026-03-31-big-tech-selloff-may-signal-turning-point-bloomberg-tech-3-30-2026.md](./2026-03-31-big-tech-selloff-may-signal-turning-point-bloomberg-tech-3-30-2026.md) |
 | 2026-03-29 | Meta Funds Gas Plants to Power Mega Louisiana Data Center \| Bloomberg Tech 3/27/2026 | [2026-03-29-meta-funds-gas-plants-to-power-mega-louisiana-data-center-bloomberg-tech-3-27-20.md](./2026-03-29-meta-funds-gas-plants-to-power-mega-louisiana-data-center-bloomberg-tech-3-27-20.md) |
