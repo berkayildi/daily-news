@@ -12,6 +12,7 @@ content/
     index.md
   x-digest/
     2026-04-12-x-digest.md
+    2026-04-12-x-digest.png
     index.md
 ```
 
