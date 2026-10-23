@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-10-23 | Meta Doubles Down on AI Spending, Plans New Class C Shares | [2026-10-23-meta-doubles-down-on-ai-spending-plans-new-class-c-shares.md](./2026-10-23-meta-doubles-down-on-ai-spending-plans-new-class-c-shares.md) |
 | 2026-05-26 | I'm done. I'm f***ing done. | [2026-05-26-i-m-done-i-m-f-ing-done.md](./2026-05-26-i-m-done-i-m-f-ing-done.md) |
 | 2026-05-02 | Apple Forecasts Sales Growth Amid Memory Shortage \| Bloomberg Tech 5/1/2026 | [2026-05-02-apple-forecasts-sales-growth-amid-memory-shortage-bloomberg-tech-5-1-2026.md](./2026-05-02-apple-forecasts-sales-growth-amid-memory-shortage-bloomberg-tech-5-1-2026.md) |
 | 2026-05-01 | AI Payoff in Focus During Tech Earnings Bonanza \| Bloomberg Tech 4/30/2026 | [2026-05-01-ai-payoff-in-focus-during-tech-earnings-bonanza-bloomberg-tech-4-30-2026.md](./2026-05-01-ai-payoff-in-focus-during-tech-earnings-bonanza-bloomberg-tech-4-30-2026.md) |
